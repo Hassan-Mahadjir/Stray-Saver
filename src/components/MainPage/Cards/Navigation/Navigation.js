@@ -1,6 +1,6 @@
 import React from "react";
 
-const navigation = () => {
+const Navigation = () => {
     return (
         <nav className="navbar navbar-expand-lg fixed-top navbar-dark"
              style={{backgroundImage: 'linear-gradient(rgb(112, 158, 13,1), rgb(99, 136, 14))'}}
@@ -50,4 +50,4 @@ const navigation = () => {
     );
 }
 
-export default navigation;
+export default Navigation;
