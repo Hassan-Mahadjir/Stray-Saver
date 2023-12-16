@@ -6,6 +6,7 @@ const Footer = () => {
                 style={{
                     backgroundImage: 'linear-gradient(rgb(118, 165, 14), rgb(69, 94, 9))',
                     bottom: "0",
+                    margin: "0 !important",
                     position: "bottom"
                 }}>
             <ul className="nav justify-content-center border-bottom pb-3 mb-3">
