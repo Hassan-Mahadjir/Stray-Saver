@@ -11,6 +11,8 @@ import picthome from "./pictures/home.png";
 import pictpetfood24 from "./pictures/pet-food24.png";
 import pictalvan from "./pictures/alvan-nee-73flblFUksY-unsplash.png";
 import pictscreen from "./pictures/screenshot.png";
+import Navigation from "./Cards/navigation/navigation";
+import Footer from "./Cards/Footer/Footer";
 
 
 const MainPage = () => {
@@ -33,44 +35,8 @@ const MainPage = () => {
 
             <div>
 
-                <nav class="navbar navbar-expand-lg fixed-top navbar-dark"
-                     style={{ backgroundImage: 'linear-gradient(rgb(112, 158, 13,1), rgb(99, 136, 14))' }}
-                     aria-label="Main navigation">
-                    <div class="container-fluid">
-                        <a class="navbar-brand ms-3" href="#">Stray Saver</a>
-                        <button class="navbar-toggler p-0 border-0" type="button" id="navbarSideCollapse" aria-label="Toggle navigation">
-                            <span class="navbar-toggler-icon"></span>
-                        </button>
-
-                        <div class="navbar-collapse navbar-collapse " id="navbarsExampleDefault">
-                            <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-                                <li class="nav-item ">
-                                    <a class="nav-link" href="#"><button class="btn btn-light btn-sm rounded-pill px-3 w-15" type="button">Home</button></a>
-                                </li>
-                                <li class="nav-item mt-1 mx-2" style={{ color: 'white' }}>
-                                    <a class="nav-link" href="#">Animal List</a>
-                                </li>
-                                <li class="nav-item mt-1 mx-2">
-                                    <a class="nav-link" href="#">Contact</a>
-                                </li>
-                                <li class="nav-item mt-1 mx-2">
-                                    <a class="nav-link" href="#">About</a>
-                                </li>
-                                <li class="nav-item mt-1 mx-2">
-                                    <a class="nav-link" href="#">Login</a>
-                                </li>
-
-                                <li class="nav-item">
-                                    <a class="nav-link" href="#"><button
-                                        class="btn btn-outline-success rounded-pill px-3 w-20 btn-sm"
-                                        style={{ color: 'white', borderColor: 'white' }}
-                                        type="button">Sign-in</button></a>
-                                </li>
-
-                            </ul>
-                        </div>
-                    </div>
-                </nav>
+                {/*Navigation starts*/}
+                <Navigation />
 
                 {/*Main starts*/}
                 <div class="container-fluid p-4 p-md-5 mb-1 mt-4 text-body-emphasis"
@@ -348,29 +314,11 @@ const MainPage = () => {
                             </div>
                         </div>
                 </div>
+
             </div>
             {/*footer*/}
-            <footer className="py-3 my-4"
-                    style={{backgroundImage: 'linear-gradient(rgb(118, 165, 14), rgb(69, 94, 9))'}}>
-                <ul className="nav justify-content-center border-bottom pb-3 mb-3">
-                    <li className="nav-item"><a href="#"
-                                                className="nav-link px-2 text-white">Home</a>
-                    </li>
-                    <li className="nav-item"><a href="#"
-                                                className="nav-link px-2 text-white">Modules</a>
-                    </li>
-                    <li className="nav-item"><a href="#"
-                                                className="nav-link px-2 text-white">Comments</a>
-                    </li>
-                    <li className="nav-item"><a href="#"
-                                                className="nav-link px-2 text-white">FAQs</a>
-                    </li>
-                    <li className="nav-item"><a href="#"
-                                                className="nav-link px-2 text-white">About</a>
-                    </li>
-                </ul>
-                <p className="text-center text-white">© Stray Saver 2023</p>
-            </footer>
+
+            <Footer />
         </div>
     )
 };
