@@ -55,9 +55,9 @@ const MainPage = () => {
                         <div className="row">
                             <div className="col-lg-6">
                                 <h1 className="display-3 fw-bold">Animals are Part of Our Family</h1>
-                                <p className="lead my-3">Multiple lines of text that form the lede, informing new
-                                    readers quickly and
-                                    efficiently about what’s most interesting in this post’s contents.</p>
+                                <p className="lead my-3">Explore heartwarming stories and practical tips,
+                                    uniting with us to make a difference for each furry friend.
+                                    In our world, every pawprint tells a tale of hope and belonging.</p>
                             </div>
                             <div className="col-lg-6 d-flex justify-content-end align-items-end">
                                 <img
@@ -84,11 +84,10 @@ const MainPage = () => {
                             </div>
                             <div className="col-lg-4 px-0 d-flex align-items-center">
                                 <div className="px-4">
-                                    <h4 className="display-5 fw-bold">Animals are Part of Our Family</h4>
+                                    <h4 className="display-5 fw-bold">Embrace Pawsitivity: Step into Our Sanctuary for Stray Souls</h4>
                                     <p className="lead my-3">
-                                        Multiple lines of text that form the lede, informing new readers quickly and
-                                        efficiently about
-                                        what’s most interesting in this post’s contents.
+                                        Join our stray animal sanctuary for heartwarming stories and care tips,
+                                        fostering a community where every creature is family.
                                     </p>
                                 </div>
                             </div>

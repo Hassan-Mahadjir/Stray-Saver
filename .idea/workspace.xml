@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9b24f2f-be31-462b-ac8b-8fdb51a474f2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/database/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/express.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animalData/cat1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animalData/dog1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animalData/dog2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Log/Login/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Modules/Adoption/AdoptForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Modules/Adoption/Adoption.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Modules/Adoption/AnimalAdoptionPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Modules/Adoption/pet-care.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Modules/Donation/Donation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Modules/Donation/DonationPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Modules/Volunteering/Volunteering.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profiles/AnimalProfile/AnimalProfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profiles/AnimalProfile/food.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profiles/AnimalProfile/healtcare.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profiles/AnimalProfile/house.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profiles/AnimalProfile/water.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profiles/OrganizationProfile/OrganizationProfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Stray-Saver.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/dbconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/database/dbconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/dbconnection.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/database/dbconnection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/displaytables.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/database/displaytables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MainPage/Cards/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MainPage/Cards/Footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MainPage/Cards/Modules/Adopt/AdoptCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MainPage/Cards/Modules/Adopt/AdoptCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MainPage/Cards/Modules/DonateCard/DonateCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MainPage/Cards/Modules/DonateCard/DonateCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MainPage/Cards/Modules/VolunteerCard/VolunteerCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MainPage/Cards/Modules/VolunteerCard/VolunteerCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MainPage/Cards/Navigation/Navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MainPage/Cards/Navigation/Navigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MainPage/Cards/deneme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MainPage/MainPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MainPage/MainPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Modules/Reportation/Reportation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Modules/Reportation/Reportation.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;seyitahmetinci&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="fa5a7427-72bb-4a0e-8e7d-96d70c4d392f" />
+        <option name="url" value="https://github.com/Hassan-Mahadjir/Stray-Saver.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2Ztj8VolUEupoENRfOtmXzEQJrQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Node.js.AdoptForm.js.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.App.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.dbconnection.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.displaytables.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.express.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Github/4/Stray-Saver/backend/database&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.run.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Github\4\Stray-Saver\backend\database" />
+      <recent name="C:\Github\4\Stray-Saver\backend" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="react_straysaver_website" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="react_straysaver_website" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9b24f2f-be31-462b-ac8b-8fdb51a474f2" name="Changes" comment="" />
+      <created>1703248112594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703248112594</updated>
+      <workItem from="1703248115305" duration="81000" />
+      <workItem from="1703248278307" duration="257000" />
+      <workItem from="1703249426187" duration="11000" />
+      <workItem from="1703249443325" duration="135000" />
+      <workItem from="1703249826205" duration="21596000" />
+      <workItem from="1703320693310" duration="1417000" />
+      <workItem from="1703333252495" duration="5543000" />
+      <workItem from="1703341645569" duration="2361000" />
+      <workItem from="1703344387882" duration="685000" />
+      <workItem from="1703345272444" duration="15397000" />
+      <workItem from="1703439422786" duration="3653000" />
+      <workItem from="1703489507694" duration="2940000" />
+      <workItem from="1703624892708" duration="1018000" />
+      <workItem from="1703660914139" duration="681000" />
+      <workItem from="1703673686985" duration="779000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/backend/express.js</url>
+          <line>86</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/backend/express.js</url>
+          <line>58</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
