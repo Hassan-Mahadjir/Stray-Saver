@@ -29,16 +29,16 @@ const Navigation = () => {
                         <li className="nav-item mt-1 mx-2">
                             <a className="nav-link" href="#">About</a>
                         </li>
-                        <li className="nav-item mt-1 mx-2">
-                            <a className="nav-link" href="#">Login</a>
-                        </li>
+                        {/*<li className="nav-item mt-1 mx-2">*/}
+                        {/*    <a className="nav-link" href="#">Login</a>*/}
+                        {/*</li>*/}
 
                         <li className="nav-item">
                             <a className="nav-link" href="#">
                                 <button
                                     className="btn btn-outline-success rounded-pill px-3 w-20 btn-sm"
                                     style={{color: 'white', borderColor: 'white'}}
-                                    type="button">Sign-in
+                                    type="button">Hi, Seyit
                                 </button>
                             </a>
                         </li>
